@@ -31,4 +31,4 @@ Em construção (...)
 
 **Desenvolvedores/Contribuintes**
 
-- Raissa Martins Lima - Desenvolvedora SIS
+- Raissa Martins Lima - Desenvolvedora Back-end Java
